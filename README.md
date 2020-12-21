@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm computer beasts</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Frainbow-830829%2F&psig=AOvVaw1nWbMR6h1CpK_rrNeI4lcO&ust=1608618249515000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi0iI643u0CFQAAAAAdAAAAABAD" alt="computerbeasts" /> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=computerbeasts&label=Profile%20views&color=0e75b6&style=flat" alt="computerbeasts" /> </p>
 
 - 🔭 I’m currently Studying in **Gramin Technical And Mangament campus**
